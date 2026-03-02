@@ -66,7 +66,7 @@ API runs at **http://localhost:8000** · Docs at **http://localhost:8000/docs**
 
 ### Frontend
 ```bash
-cd Frontend/FixTrack
+cd Frontend
 npm install
 npm run dev
 ```
